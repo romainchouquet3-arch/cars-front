@@ -1,27 +1,14 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+# Bootstrap Ruby Gem [![CI](https://github.com/twbs/bootstrap-rubygem/actions/workflows/ci.yml/badge.svg)](https://github.com/twbs/bootstrap-rubygem/actions/workflows/ci.yml) [![Gem](https://img.shields.io/gem/v/bootstrap.svg)](https://rubygems.org/gems/bootstrap)
 
-<a name="readme-top"></a>
+[Bootstrap 5][bootstrap-home] ruby gem for Ruby on Rails (_Sprockets_/_Importmaps_) and Hanami (formerly Lotus).
 
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+## Installation
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+1- Fork this repo into your own repos
+2- Clone your new repo into your PC
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+```shell
+git clone https://github.com/web-rest-api/mod02-part03-frontEnd.git
+```
+
+### Backend
