@@ -1,5 +1,6 @@
 export const localCarsdata = [
 	{
+		id: 1,
 		brand: "Ferrari",
 		model: "250 GTO",
 		year: 1962,
@@ -11,6 +12,7 @@ export const localCarsdata = [
 			"https://cdn.ferrari.com/cms/network/media/img/resize/5d055246107b060e8f527a59",
 	},
 	{
+		id: 2,
 		brand: "Porsche",
 		model: "911 Carrera RS",
 		year: 1973,
@@ -22,6 +24,7 @@ export const localCarsdata = [
 			"https://cdn.rmsothebys.com/d/6/6/9/2/5/d669253bbebf27ce2a60ef8db2c46600610471d3.webp",
 	},
 	{
+		id: 3,
 		brand: "Jaguar",
 		model: "E-Type",
 		year: 1961,
@@ -33,6 +36,7 @@ export const localCarsdata = [
 			"https://pendine.com/wp-content/uploads/2018/10/DSC_3137-WEB-1500x1001.jpg",
 	},
 	{
+		id: 4,
 		brand: "Mercedes-Benz",
 		model: "300 SL",
 		year: 1955,
@@ -44,6 +48,7 @@ export const localCarsdata = [
 			"https://www.gallery-aaldering.com/wp-content/uploads/2025/09/mercedes-benz-300-sl-gullwing-1955.jpg?v=11",
 	},
 	{
+		id: 5,
 		brand: "Aston Martin",
 		model: "DB5",
 		year: 1964,
